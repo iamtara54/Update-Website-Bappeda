@@ -1,0 +1,69 @@
+@media only screen and (max-width: 767px) {
+	.sub-text {
+	    font-size: 12px;
+	    padding: 0 50px;
+	}
+	#icon {
+		width: 100%;
+		top: 122%;
+	}
+	.img-size {
+	    width: 100%;
+	    margin-left: -15px;
+	}
+	.option {
+    	padding: 0;
+	}
+	.navbar-brand {
+    	padding-left: 5px;
+	}
+	.bg-img {
+		height: 100%;
+	}
+	.md-padding {
+		padding-top: 30px;
+	}
+	.btn-info, .btn-req {
+		padding: 6px 12px;
+	}
+	#award h3 {
+    	font-size: 1.5em;
+	}
+	#award h2 {
+    	font-size: 2em;
+	}
+	#award .btn-group .btn {
+		padding: 6px;
+	}
+	.section {
+    	width: 100%!important;
+    	overflow: hidden!important;
+	}
+	#contact #maps iframe {
+	    position: relative!important;
+	    margin-top: -15px!important;
+	    width: 100%!important;
+	    height: 300px!important;
+	}
+	.menus {
+		display: block!important;
+	}
+	#menu-toggle {
+		display: none;
+	}
+	.headnya {
+		font-size: 1.73em;
+	}
+	.nav-tabs>li {
+    	float: none!important;
+	}
+	#sidebar-wrapper {
+		display: none;
+	}
+	.iconlink {
+		width: 100%;
+	}
+	.link {
+		font-size: 10px;
+	}
+}
