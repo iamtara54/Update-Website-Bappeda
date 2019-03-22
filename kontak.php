@@ -331,7 +331,7 @@
 	}
 @media only screen and (max-width: 767px) {
 	#footer {
-		top: 273%;
+		position: relative;
 	}
 }
 </style>
