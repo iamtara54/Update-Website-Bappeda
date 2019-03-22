@@ -323,12 +323,12 @@
         	<br>
         	<br>
         	<div class="awward-group" data-sr="wait 150ms move 100px opacity 0.5">
-	            <img src="http://bappeda.jogjaprov.go.id/static/images/background/award-wtb.png" class="linkscale">
-	            <img src="http://bappeda.jogjaprov.go.id/static/images/background/award-pangripta.png" class="linkscale">
-	            <img src="http://bappeda.jogjaprov.go.id/static/images/background/award-sinovik.png" class="linkscale">
-	            <img src="http://bappeda.jogjaprov.go.id/static/images/background/award-kinerja.png" class="linkscale">
-	            <img src="http://bappeda.jogjaprov.go.id/static/images/background/terbaik-3.png" class="linkscale">
-	            <img src="http://bappeda.jogjaprov.go.id/static/images/background/juara-1-2017.png" class="linkscale">
+	            <img src="img/awardbappeda/1.png" class="linkscale">
+	            <img src="img/awardbappeda/2.png" class="linkscale">
+	            <img src="img/awardbappeda/3.png" class="linkscale">
+	            <img src="img/awardbappeda/4.png" class="linkscale">
+	            <img src="img/awardbappeda/5.png" class="linkscale">
+	            <img src="img/awardbappeda/6.png" class="linkscale">
         	</div>
 
 			<!-- Row -->
