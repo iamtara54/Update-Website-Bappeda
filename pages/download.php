@@ -10,7 +10,7 @@
 			<!-- Main -->
 			<main id="main" class="col-md-9">
 				<div class="blog">
-
+					<h2 class="title-blog">DOWNLOAD</h2><br/>
 					<div id="table-view-grid" class="grid-view">
 						<div class="layout-center">
 							<table class="table table-bordered table-striped table-condensed">

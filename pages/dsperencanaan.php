@@ -14,7 +14,7 @@
 				<!-- </div> -->
 				<div class="dashboard-perencanaan">
 					<div class="dashboard-header">
-				        <div class="container">
+				        <div class="container"><br/><br/>
 				            <h2>Dashboard Perencanaan</h2>
 				            <h4>Informasi Perencanaan Bappeda Tahun 2020</h4>
 				        </div>

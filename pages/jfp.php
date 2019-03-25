@@ -1,3 +1,4 @@
+<br/><br/>
 <div id="jfp" class="section xs-padding">
   <div class="container">
     <div class="row">
@@ -18,6 +19,7 @@
               <div class="tab-pane active" id="tab_default_1">
                 <!-- <div id="singlepage" class="section section-lg"> -->
                   <!-- <div class="container"> -->
+                    <br/>
                     <h3>PROFIL JFP</h3>
                     <hr>
                     <p style="text-align: justify;">Jabatan Fungsional Perencana merupakan tindak lanjut dari keputusan Menteri Negara Pendayagunaan Aparatur Negara (Men.PAN) Nomor 16/KEP/M.PAN/3/2001 tentang Jabatan Fungsional Perencana dan Angka Kreditnya. Keputusan Men.PAN tersebut dilandasi oleh dua pertimbangan utama. Yang pertama, adalah untuk meningkatkan daya guna dan hasil guna sumber daya manusia pada aparatur negara yang bertugas melakukan kegiatan perencanaan pembangunan diperlukan adanya Pegawai Negeri Sipil (PNS) yang ditugaskan secara penuh sebagai Perencana. Kedua, untuk menjamin pembinaan karier, kepangkatan/jabatan dan profesi di bidang perencanaan pembangunan dipandang perlu ditetapkan Jabatan Fungsional Perencana dan Angka Kreditnya. Bappeda DIY sebagai institusi yang memiliki tugas pokok dalam perencanaan daerah berusaha menjawab tantangan tersebut. Tantangan yang dimaksud tidak hanya membentuk tim perencana, namun berusaha agar setiap outputnya dapat dimanfaatkan secara luas.</p>
@@ -34,7 +36,7 @@
                               </div>
                               <div class="media-body">
                                 <div class="nama">
-                                  <a href="/karya_perencanaan/8-antarikso-bawono-st-mt"><strong>Antarikso Bawono, ST, MT</strong></a>
+                                  <a href="?page=directjfp"><strong>Antarikso Bawono, ST, MT</strong></a>
                                 </div>
                                 <br>
                                 <div class="jabatan">Jabatan. Perencana Muda</div>
@@ -81,7 +83,7 @@
                           <div class="card card-perencana">
                             <div class="media">
                               <div class="media-left">
-                                <div class="avatar" style="background-image: url('img/Userspangky.jpg');width: 80px;height: 80px;"></div>
+                                <div class="avatar" style="background-image: url('img/Users/pangky.jpg');width: 80px;height: 80px;"></div>
                               </div>
                               <div class="media-body">
                                 <div class="nama">
@@ -98,7 +100,7 @@
                             <div class="card card-perencana">
                               <div class="media">
                                 <div class="media-left">
-                                  <div class="avatar" style="background-image: url('img/Users/1069/ari.jpg');width: 80px;height: 80px;"></div>
+                                  <div class="avatar" style="background-image: url('img/Users/ari.jpg');width: 80px;height: 80px;"></div>
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
@@ -282,7 +284,7 @@
                 <div class="card card-perencana">
                   <div class="media">
                     <div class="media-left">
-                      <div class="avatar" style="background-image: url('img/Users/imam karyadi.jpg');width: 80px;height: 80px;"></div>
+                      <div class="avatar" style="background-image: url('img/Users/imamkaryadi.jpg');width: 80px;height: 80px;"></div>
                     </div>
                     <div class="media-body">
                       <div class="nama">
@@ -442,7 +444,7 @@
                 <div class="card card-perencana">
                   <div class="media">
                     <div class="media-left">
-                      <div class="avatar" style="background-image: url('img/Users//');width: 80px;height: 80px;"></div>
+                      <div class="avatar" style="background-image: url('img/Users/no-photo-female.jpg');width: 80px;height: 80px;"></div>
                     </div>
                     <div class="media-body">
                       <div class="nama">
@@ -464,10 +466,11 @@
               <div class="tab-pane" id="tab_default_2">
                 <!-- <div id="singlepage" class="section section-lg"> -->
     <!-- <div class="container"> -->
+      <br/>
       <h3>PROFIL AP2I KOMWIL DIY</h3>
       <hr>
       <p style="text-align: justify;"><strong>Latar Belakang:</strong></p>
-<p style="text-align: justify;"><strong><img style="float: left; border-width: 10px;" src="img/ap2i.png" width="142" height="150"></strong>AP2I merupakan organisasi profesi perencana pembangunan, didirikan dalam rangka memenuhi amanat penjelasan Pasal 3 Huruf b, PP RI Nomor 16 tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil, yang kemudian disempurnakan melalui PP Nomor 40 tahun 2010 tentang Perubahan atas PP Nomor 16 Tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil. AP2I berdiri pada <strong>tanggal 18 Juni 2007 </strong>melalui <strong>Akte Notaris Bonar Sihombing, SH. Nomor 17, dengan NPWP: 02.584.633.88-071.000</strong>.</p>
+<p style="text-align: justify;"><strong><img style="float: left; border-width: 10px; margin-right: 10px" src="img/ap2i.png" width="142" height="150"></strong>AP2I merupakan organisasi profesi perencana pembangunan, didirikan dalam rangka memenuhi amanat penjelasan Pasal 3 Huruf b, PP RI Nomor 16 tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil, yang kemudian disempurnakan melalui PP Nomor 40 tahun 2010 tentang Perubahan atas PP Nomor 16 Tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil. AP2I berdiri pada <strong>tanggal 18 Juni 2007 </strong>melalui <strong>Akte Notaris Bonar Sihombing, SH. Nomor 17, dengan NPWP: 02.584.633.88-071.000</strong>.</p>
 <p style="text-align: justify;">Anggota AP2I terdiri atas Para Pejabat Fungsional Perencana (PFP) sebagai Anggota Biasa, para Pejabat Struktural Non Perencana/Akademisi/Masyarakat Umum (Anggota Kehormatan), dan PFP yang diberhentikan sementara dari JFP dan ditugaskan dalam jabatan lain (Anggota Luar Biasa). Hak dan kewajiban masing-masing anggota dapat dilihat dalam AD-ART AP2I yang tersedia di website AP2I: <a href="http://ap2i-nasional.or.id/"><u>http://ap2i-nasional.or.id/</u></a></p>
 <p style="text-align: justify;">Keberadaan AP2I juga merupakan amanat Peraturan Pemerintah Nomor 11 Tahun 2017 tentang Manajemen PNS, yang di dalamnya dimandatkan bahwa: <strong>(1) Setiap Jabatan Fungsional (JF) yang telah ditetapkan wajib memiliki 1 (satu) organisasi profesi Jabatan Fungsional dalam jangka waktu paling lama 5 (lima) tahun terhitung sejak tanggal penetapan JF, dan (2) Setiap pejabat fungsional wajib menjadi anggota organisasi profesi JF (yang didudukinya)... (Pasal 101 ayat (1) dan (2)).</strong></p>
 <p style="text-align: justify;">&nbsp;</p>

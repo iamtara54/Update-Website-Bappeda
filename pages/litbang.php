@@ -1,3 +1,4 @@
+<br/><br/>
 <div id="jfp" class="section xs-padding">
   <div class="container">
     <div class="row">
@@ -18,6 +19,7 @@
               <div class="tab-pane active" id="tab_default_1">
                 <!-- <div id="singlepage" class="section section-lg"> -->
                   <!-- <div class="container"> -->
+                    <br/>
                     <h3>PROFIL Litbang</h3>
                     <hr>
                     <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -320,10 +322,11 @@
               <div class="tab-pane" id="tab_default_2">
                 <!-- <div id="singlepage" class="section section-lg"> -->
     <!-- <div class="container"> -->
+      <br/>
       <h3>PROFIL Litbang KOMWIL DIY</h3>
       <hr>
       <p style="text-align: justify;"><strong>Latar Belakang:</strong></p>
-<p style="text-align: justify;"><strong><img style="float: left; border-width: 10px;" src="/view_image/images/1510306199_9478b1a568e0be99f1548285c04b88ff.png" width="142" height="150"></strong>AP2I merupakan organisasi profesi perencana pembangunan, didirikan dalam rangka memenuhi amanat penjelasan Pasal 3 Huruf b, PP RI Nomor 16 tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil, yang kemudian disempurnakan melalui PP Nomor 40 tahun 2010 tentang Perubahan atas PP Nomor 16 Tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil. AP2I berdiri pada <strong>tanggal 18 Juni 2007 </strong>melalui <strong>Akte Notaris Bonar Sihombing, SH. Nomor 17, dengan NPWP: 02.584.633.88-071.000</strong>.</p>
+<p style="text-align: justify;"><strong><img style="float: left; border-width: 10px; margin-right: 10px" src="img/default.png" width="142" height="150"></strong>AP2I merupakan organisasi profesi perencana pembangunan, didirikan dalam rangka memenuhi amanat penjelasan Pasal 3 Huruf b, PP RI Nomor 16 tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil, yang kemudian disempurnakan melalui PP Nomor 40 tahun 2010 tentang Perubahan atas PP Nomor 16 Tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil. AP2I berdiri pada <strong>tanggal 18 Juni 2007 </strong>melalui <strong>Akte Notaris Bonar Sihombing, SH. Nomor 17, dengan NPWP: 02.584.633.88-071.000</strong>.</p>
 <p style="text-align: justify;">Anggota AP2I terdiri atas Para Pejabat Fungsional Perencana (PFP) sebagai Anggota Biasa, para Pejabat Struktural Non Perencana/Akademisi/Masyarakat Umum (Anggota Kehormatan), dan PFP yang diberhentikan sementara dari JFP dan ditugaskan dalam jabatan lain (Anggota Luar Biasa). Hak dan kewajiban masing-masing anggota dapat dilihat dalam AD-ART AP2I yang tersedia di website AP2I: <a href="http://ap2i-nasional.or.id/"><u>http://ap2i-nasional.or.id/</u></a></p>
 <p style="text-align: justify;">Keberadaan AP2I juga merupakan amanat Peraturan Pemerintah Nomor 11 Tahun 2017 tentang Manajemen PNS, yang di dalamnya dimandatkan bahwa: <strong>(1) Setiap Jabatan Fungsional (JF) yang telah ditetapkan wajib memiliki 1 (satu) organisasi profesi Jabatan Fungsional dalam jangka waktu paling lama 5 (lima) tahun terhitung sejak tanggal penetapan JF, dan (2) Setiap pejabat fungsional wajib menjadi anggota organisasi profesi JF (yang didudukinya)... (Pasal 101 ayat (1) dan (2)).</strong></p>
 <p style="text-align: justify;">&nbsp;</p>

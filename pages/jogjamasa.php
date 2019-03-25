@@ -10,7 +10,7 @@
 			<!-- Main -->
 			<main id="main" class="col-md-9">
 				<div class="blog">
-
+					<h3 class="title-blog">Jogja Masa Kini</h3>
 					<!-- Daftar Berita -->
 					<div class="blog-author">
 						<div class="media">
@@ -227,7 +227,7 @@
 							<img src="./img/blog2.jpg" alt="" width="85px" height="60px"> UNESCO World Heritage
 						</a>
 						<ul class="blog-meta">
-							<li><i class="fa fa-tags"></i>Berita</li>
+							<li><i class="fa fa-tags"></i>Jogja Masa Depan</li>
 							<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
 						</ul>
 					</div>
@@ -239,7 +239,7 @@
 							<img src="./img/blog2.jpg" alt="" width="85px" height="60px"> UNESCO World Heritage
 						</a>
 						<ul class="blog-meta">
-							<li><i class="fa fa-tags"></i>Berita</li>
+							<li><i class="fa fa-tags"></i>Jogja Masa Kini</li>
 							<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
 						</ul>
 					</div>
@@ -252,7 +252,7 @@
 							<img src="./img/blog2.jpg" alt="" width="85px" height="60px"> UNESCO World Heritage
 						</a>
 						<ul class="blog-meta">
-							<li><i class="fa fa-tags"></i>Berita</li>
+							<li><i class="fa fa-tags"></i>Isu Strategis</li>
 							<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
 						</ul>
 					</div>

@@ -3,7 +3,7 @@
 
 	<!-- Container -->
 	<div class="container">
-
+		<h2 class="title-blog">Artikel</h2><br/>
 		<!-- Row -->
 		<div class="row">
 
@@ -17,7 +17,7 @@
 						<ul class="blog-meta">
 							<li><i class="fa fa-user"></i>IMAM KARYADI ARYANTO, SIP, MPA</li>
 							<li><i class="fa fa-clock-o"></i>11 FEBRUARI 2019 - 10:01:57</li>
-							<li><i class="fa fa-tags"></i>Artikel</li>
+							<li><i class="fa fa-tags"></i>Karya Perencana</li>
 						</ul>
 						<h3>KONSULTASI PUBLIK RKPD DIY 2020</h3>
 						<p>Pemerintah Daerah Daerah Istimewa Yogyakarta (Pemda DIY) menyelenggarakan Konsultasi Publik dalam Rangka Penyusunan Rencana Kerja Pemerintah Daerah DIY 2020 (RKPD DIY 2020) yang diselenggarakan di Ruang Radyo Suyoso Kompleks Kepatihan Danurejan Yogyakarta, pada hari Senin, 11 Februari 2019. Konsultasi Publik dibuka dengan Arahan Sekretaris Daerah DIY, Ir. Gatot Saptadi. Sekretaris Daerah DIY menyampaikan "Daerah Istimewa Yogyakarta masih memiliki pekerjaan rumah berkenaan permasalahan pokok (1) Ketimpangan Antar Wilayah ; (2) Kemiskinan dan Ketimpangan Pendapatan; (3) Dukungan Pembangunan Bandara NYIA; (4) Keterbatasan Kemampuan Pembiayaan Pembangunan Daerah yang akan menjadi fokus pada tahun perencanaan 2020." 
@@ -59,8 +59,6 @@
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
-										<a href="#"><i class="fa fa-google-plus"></i></a>
-										<a href="#"><i class="fa fa-instagram"></i></a>
 									</div>
 								</div>
 								<p>Jabatan. Perencana Muda</p>

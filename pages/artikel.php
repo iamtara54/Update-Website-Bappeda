@@ -10,7 +10,7 @@
 			<!-- Main -->
 			<main id="main" class="col-md-9">
 				<div class="blog">
-
+					<h2 class="title-blog">Artikel</h2>
 					<!-- Daftar Berita -->
 					<div class="blog-author">
 						<div class="media">
@@ -19,7 +19,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailartikel"><h3>KONSULTASI PUBLIK RKPD DIY 2020</h3></a>
+									<a href="?page=detailartikel"><h3 style="text-transform: capitalize;">Konsultasi Publik RKPD DIY 2020</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -27,7 +27,7 @@
 										<a href="#"><i class="fa fa-instagram"></i></a> -->
 									</div>
 									<ul class="blog-meta" style="margin-bottom: 0;">
-										<li><i class="fa fa-tags"></i>Artikel</li>
+										<li><i class="fa fa-tags"></i>Karya Perencana</li>
 										<li><i class="fa fa-clock-o"></i>07 FEBRUARI 2019 - 16:12:23</li>
 										<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
 									</ul>
@@ -46,7 +46,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailartikel"><h3>KONSULTASI PUBLIK RKPD DIY 2020</h3></a>
+									<a href="?page=detailartikel"><h3 style="text-transform: capitalize;">Konsultasi Publik RKPD DIY 2020</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -54,7 +54,36 @@
 										<a href="#"><i class="fa fa-instagram"></i></a> -->
 									</div>
 									<ul class="blog-meta" style="margin-bottom: 0;">
-										<li><i class="fa fa-tags"></i>Artikel</li>
+										<li><i class="fa fa-tags"></i>Karya Peneliti</li>
+										<li><i class="fa fa-clock-o"></i>07 FEBRUARI 2019 - 16:12:23</li>
+										<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
+									</ul>
+								</div>
+								<p>Konsultasi Publik RKPD DIY 2020 disusun oleh : Imam Karyadi Aryanto; Foto : Suatmaji Pemerintah Daerah Daerah Istimewa Yogyakarta (Pemda DIY) menyelenggarakan Konsultasi Publik dalam Rangka ...</p>
+							</div>
+						</div>
+					</div>
+					<!-- /Daftar Berita -->
+
+					
+
+					<!-- Daftar Berita -->
+					<div class="blog-author">
+						<div class="media">
+							<div class="media-left">
+								<img class="media-object" src="./img/detail1.jpg" alt="" width="144px" height="96px">
+							</div>
+							<div class="media-body">
+								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
+									<a href="?page=detailartikel"><h3 style="text-transform: capitalize;">Konsultasi Publik RKPD DIY 2020</h3></a>
+									<div class="author-social">
+										<a href="#"><i class="fa fa-facebook"></i></a>
+										<a href="#"><i class="fa fa-twitter"></i></a>
+										<!-- <a href="#"><i class="fa fa-google-plus"></i></a>
+										<a href="#"><i class="fa fa-instagram"></i></a> -->
+									</div>
+									<ul class="blog-meta" style="margin-bottom: 0;">
+										<li><i class="fa fa-tags"></i>Karya Perencana</li>
 										<li><i class="fa fa-clock-o"></i>07 FEBRUARI 2019 - 16:12:23</li>
 										<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
 									</ul>
@@ -73,7 +102,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailartikel"><h3>PENGUMUMAN HASIL TES WAWANCARA SELEKSI ANGGOTA DAN ASISTEN SEBERMAS TAHUN 2019</h3></a>
+									<a href="?page=detailartikel"><h3 style="text-transform: capitalize;">Konsultasi Publik RKPD DIY 2020</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -81,34 +110,7 @@
 										<a href="#"><i class="fa fa-instagram"></i></a> -->
 									</div>
 									<ul class="blog-meta" style="margin-bottom: 0;">
-										<li><i class="fa fa-tags"></i>Berita</li>
-										<li><i class="fa fa-clock-o"></i>07 FEBRUARI 2019 - 16:12:23</li>
-										<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
-									</ul>
-								</div>
-								<p>HASIL TES WAWANCARA SELEKSI ANGGOTA DAN ASISTEN SEKRETARIAT PEMBERDAYAAN MASYARAKAT (SEBERMAS) TAHUN 2019   Sehubungan dengan telah dilaksanakanya tahapan tes wawancara seleksi Anggota dan ...</p>
-							</div>
-						</div>
-					</div>
-					<!-- /Daftar Berita -->
-
-					<!-- Daftar Berita -->
-					<div class="blog-author">
-						<div class="media">
-							<div class="media-left">
-								<img class="media-object" src="./img/detail1.jpg" alt="" width="144px" height="96px">
-							</div>
-							<div class="media-body">
-								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailartikel"><h3>KONSULTASI PUBLIK RKPD DIY 2020</h3></a>
-									<div class="author-social">
-										<a href="#"><i class="fa fa-facebook"></i></a>
-										<a href="#"><i class="fa fa-twitter"></i></a>
-										<!-- <a href="#"><i class="fa fa-google-plus"></i></a>
-										<a href="#"><i class="fa fa-instagram"></i></a> -->
-									</div>
-									<ul class="blog-meta" style="margin-bottom: 0;">
-										<li><i class="fa fa-tags"></i>Artikel</li>
+										<li><i class="fa fa-tags"></i>Karya Perencana</li>
 										<li><i class="fa fa-clock-o"></i>07 FEBRUARI 2019 - 16:12:23</li>
 										<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
 									</ul>
@@ -127,7 +129,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailartikel"><h3>KONSULTASI PUBLIK RKPD DIY 2020</h3></a>
+									<a href="?page=detailartikel"><h3 style="text-transform: capitalize;">Konsultasi Publik RKPD DIY 2020</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -135,34 +137,7 @@
 										<a href="#"><i class="fa fa-instagram"></i></a> -->
 									</div>
 									<ul class="blog-meta" style="margin-bottom: 0;">
-										<li><i class="fa fa-tags"></i>Artikel</li>
-										<li><i class="fa fa-clock-o"></i>07 FEBRUARI 2019 - 16:12:23</li>
-										<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
-									</ul>
-								</div>
-								<p>Konsultasi Publik RKPD DIY 2020 disusun oleh : Imam Karyadi Aryanto; Foto : Suatmaji Pemerintah Daerah Daerah Istimewa Yogyakarta (Pemda DIY) menyelenggarakan Konsultasi Publik dalam Rangka ...</p>
-							</div>
-						</div>
-					</div>
-					<!-- /Daftar Berita -->
-
-					<!-- Daftar Berita -->
-					<div class="blog-author">
-						<div class="media">
-							<div class="media-left">
-								<img class="media-object" src="./img/detail1.jpg" alt="" width="144px" height="96px">
-							</div>
-							<div class="media-body">
-								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailartikel"><h3>KONSULTASI PUBLIK RKPD DIY 2020</h3></a>
-									<div class="author-social">
-										<a href="#"><i class="fa fa-facebook"></i></a>
-										<a href="#"><i class="fa fa-twitter"></i></a>
-										<!-- <a href="#"><i class="fa fa-google-plus"></i></a>
-										<a href="#"><i class="fa fa-instagram"></i></a> -->
-									</div>
-									<ul class="blog-meta" style="margin-bottom: 0;">
-										<li><i class="fa fa-tags"></i>Artikel</li>
+										<li><i class="fa fa-tags"></i>Karya Peneliti</li>
 										<li><i class="fa fa-clock-o"></i>07 FEBRUARI 2019 - 16:12:23</li>
 										<li><i class="fa fa-eye"></i>5723 Kali Dibaca</li>
 									</ul>

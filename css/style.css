@@ -214,7 +214,7 @@ ul, ol {
 }
 
 .sm-padding {
-    padding-top: 60px;
+    padding-top: 90px;
     padding-bottom: 60px;
 }
 .xs-padding {
@@ -406,7 +406,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 #nav.navbar {
     border: none;
     border-radius: 0;
-    margin-bottom: 0px;
+    /*margin-bottom: 0px;*/
+    margin-bottom: -3em;
 }
 
 #nav.fixed-nav {
@@ -982,7 +983,7 @@ header {
 
 .pricing::after {
     content: "";
-    background-color: #1C1D21;
+    background-color: #ddd;
     position: absolute;
     left: 0;
     right: 0;

@@ -1,3 +1,4 @@
+<br/><br/>
 <div id="jfp" class="section xs-padding">
   <div class="container">
     <div class="row">
@@ -21,6 +22,7 @@
             <div class="tab-content">
               <div class="tab-pane active" id="tab_default_1">
                 <div class="article">
+                  <br/>
       <h2 class="heading">Sejarah Bappeda</h2>
       <p style="text-align: justify;">Demi meningkatkan keserasian pembangunan di daerah diperlukan adanya peningkatan keselarasan antara pembangunan sektoral dan pembangunan kewilayahan. Dalam upaya menjamin&nbsp; laju perkembangan, keseimbangan dan kesinambungan pembangunan daerah diperlukan perencanaan yang menyeluruh, terarah, terpadu, dan berkelanjutan.&nbsp; Manajemen perencanaan diperlukan untuk melakukan koordinasi perencanaan pembangunan daerah melalui aspek penguatan kelembagaan.&nbsp; Berdasarkan Keputusan Presiden Republik Indonesia Nomor 15 Tahun 1974 jo Kepmendagri Nomor 142 Tahun 1974 diamanatkan mengenai Pembentukan Badan Perencanaan Pembangunan Daerah sebagai badan koordinasi dalam perencanaan di daerah.</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="img/tntngbappeda.png" alt="" width="535" height="269"></p>
@@ -50,6 +52,7 @@
                 
               <div class="tab-pane" id="tab_default_2">
                 <div class="article">
+                  <br/>
       <h2 class="heading">Visi Misi</h2>
       <p style="text-align: justify;"><strong>Tujuan Dan Sasaran Bappeda DIY</strong></p>
 <p style="text-align: justify;">&nbsp;</p>
@@ -57,8 +60,9 @@
 <p style="text-align: justify;">Berkenaan dengan permasalahan dan pelaksanaan tugas-fungsi terkait serta menunjang program pemerintah daerah DIY dapat diuraikan sasaran perangkat daerah dan program perangkat daerah BAPPEDA DIY yang termuat dalam draft cascading RPJMD DIY 2017-2022 yaitu: “Terwujudnya Perencanaan Pembangunan Daerah yang Berkualitas”. Kualitas dimaksud ditunjukkan melalui ketercapaian sasaran-sasaran pembangunan daerah. Maka BAPPEDA DIY harus mampu menjadi instistusi perencanaan yang dapat menjamin perencanaan pembangunan yang dibuat dapat dilaksanakan dengan mempertimbangkan capaian sasaran yang telah ditetapkan.</p>    </div>
               </div>
               <div class="tab-pane" id="tab_default_3">
+                <br/>
                 <h2 class="headnya">Struktur Organisasi <br> Badan Perencanaan Pembangunan Daerah</h2>
-                <img src="img/struktur.png" class="img-responsive">
+                <img src="img/sog.png" class="img-responsive">
               </div>
             </div>
           </div>

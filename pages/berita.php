@@ -10,7 +10,7 @@
 			<!-- Main -->
 			<main id="main" class="col-md-9">
 				<div class="blog">
-
+					<h2 class="title-blog">BERITA</h2>
 					<!-- Daftar Berita -->
 					<div class="blog-author">
 						<div class="media">
@@ -19,7 +19,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailberita"><h3>PENGUMUMAN HASIL TES WAWANCARA SELEKSI ANGGOTA DAN ASISTEN SEBERMAS TAHUN 2019</h3></a>
+									<a href="?page=detailberita"><h3 style="text-transform: capitalize;">Pengumuman Hasil Tes Wawancara Seleksi Anggota dan Asisten SABERMAS Tahun 2019</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -46,7 +46,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailberita"><h3>PENGUMUMAN HASIL TES WAWANCARA SELEKSI ANGGOTA DAN ASISTEN SEBERMAS TAHUN 2019</h3></a>
+									<a href="?page=detailberita"><h3 style="text-transform: capitalize;">Pengumuman Hasil Tes Wawancara Seleksi Anggota dan Asisten SABERMAS Tahun 2019</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -73,7 +73,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailberita"><h3>PENGUMUMAN HASIL TES WAWANCARA SELEKSI ANGGOTA DAN ASISTEN SEBERMAS TAHUN 2019</h3></a>
+									<a href="?page=detailberita"><h3 style="text-transform: capitalize;">Pengumuman Hasil Tes Wawancara Seleksi Anggota dan Asisten SABERMAS Tahun 2019</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -100,7 +100,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailberita"><h3>PENGUMUMAN HASIL TES WAWANCARA SELEKSI ANGGOTA DAN ASISTEN SEBERMAS TAHUN 2019</h3></a>
+									<a href="?page=detailberita"><h3 style="text-transform: capitalize;">Pengumuman Hasil Tes Wawancara Seleksi Anggota dan Asisten SABERMAS Tahun 2019</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -127,7 +127,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailberita"><h3>PENGUMUMAN HASIL TES WAWANCARA SELEKSI ANGGOTA DAN ASISTEN SEBERMAS TAHUN 2019</h3></a>
+									<a href="?page=detailberita"><h3 style="text-transform: capitalize;">Pengumuman Hasil Tes Wawancara Seleksi Anggota dan Asisten SABERMAS Tahun 2019</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
@@ -154,7 +154,7 @@
 							</div>
 							<div class="media-body">
 								<div class="media-heading" style="padding-bottom: 0;margin-bottom: 5px;">
-									<a href="?page=detailberita"><h3>PENGUMUMAN HASIL TES WAWANCARA SELEKSI ANGGOTA DAN ASISTEN SEBERMAS TAHUN 2019</h3></a>
+									<a href="?page=detailberita"><h3 style="text-transform: capitalize;">Pengumuman Hasil Tes Wawancara Seleksi Anggota dan Asisten SABERMAS Tahun 2019</h3></a>
 									<div class="author-social">
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>

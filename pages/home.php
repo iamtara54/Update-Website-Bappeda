@@ -72,7 +72,7 @@
 						
 						<div class="slide">
 							<img src="img/icon/4.png" class="img-responsive" width="80px">
-							<p class="link">E-Money</p>
+							<p class="link">E-Monev</p>
 						</div>
 						
 						<div class="slide">
@@ -84,6 +84,7 @@
 							<img src="img/icon/7.png" class="img-responsive" width="80px">
 							<p class="link">E-Metadata</p>
 						</div>
+
 					</div>
 				</div>
 
@@ -659,7 +660,7 @@
 		}*/
 
 .slidecontainer {
-	max-width: 660px;
+	max-width: 700px;
 	width: 100%;
 	margin: 0 auto;
 	position: relative;

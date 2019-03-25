@@ -66,11 +66,11 @@
 
 				<!--  Main navigation  -->
 				<ul class="main-nav nav navbar-nav navbar-right">
-					<li><a href="http://localhost/bappedaDIY/index.php?page=egov">E-Gov</a></li>
-					<li><a href="http://localhost/bappedaDIY/index.php?page=berita">Berita</a></li>
-					<li><a href="http://localhost/bappedaDIY/index.php?page=info">Info Publik</a></li>
-					<li><a href="http://localhost/bappedaDIY/index.php?page=download">Download</a></li>
-					<li><a href="http://localhost/bappedaDIY/index.php?page=jfp">JFP Corner</a></li>
+					<li><a href="index.php?page=egov">E-Gov</a></li>
+					<li><a href="index.php?page=berita">Berita</a></li>
+					<li><a href="index.php?page=info">Info Publik</a></li>
+					<li><a href="index.php?page=download">Download</a></li>
+					<li><a href="index.php?page=jfp">JFP Corner</a></li>
 					<!-- <li><a href="#team">IKD</a></li>
 					<li class="has-dropdown"><a href="#blog">Peta</a>
 						<ul class="dropdown">
@@ -101,19 +101,19 @@
 						<ul class="sidebar-nav">
 							<!-- <a id="menu-close" href="#" class="btn btn-danger pull-right hidden-md hidden-lg toggle"><i class="fa fa-times"></i></a> -->
 							<li>
-								<a href="http://localhost/bappedaDIY/index.php?page=tntangbappeda" title="Tentang">Tentang Bappeda</a>
+								<a href="index.php?page=tntangbappeda" title="Tentang">Tentang Bappeda</a>
 							</li>
 							<li>
-								<a href="http://localhost/bappedaDIY/index.php?page=litbang" title="Litbang">Litbang Corner</a>
+								<a href="index.php?page=litbang" title="Litbang">Litbang Corner</a>
 							</li>
 							<li>
-								<a href="http://localhost/bappedaDIY/index.php?page=artikel" title="Artikel">Artikel</a>
+								<a href="index.php?page=artikel" title="Artikel">Artikel</a>
 							</li>
 							<li>
-								<a href="http://localhost/bappedaDIY/index.php?page=media" title="Galeri Bappeda">Media</a>
+								<a href="index.php?page=media" title="Galeri Bappeda">Media</a>
 							</li>
 							<li>
-								<a href="http://localhost/bappedaDIY/index.php?page=dsperencanaan" title="Dashboard">Dashboard Perencanaan</a>
+								<a href="index.php?page=dsperencanaan" title="Dashboard">Dashboard Perencanaan</a>
 							</li>
 						</ul>
 					</nav>
@@ -135,12 +135,15 @@
 	<!-- /Header -->
 <div id="kontak" class="section sm-padding">
 	<div class="col-body">
-		<div class="head-page" style="background: url(https://ayokitakerja.kemnaker.go.id/assets/images-new/bg-comp-reg.jpg) center -28px fixed no-repeat;margin-top: -100px;">
+		<!-- <div class="head-page" style="background: url(https://ayokitakerja.kemnaker.go.id/assets/images-new/bg-comp-reg.jpg) center -28px fixed no-repeat;margin-top: -100px;">
 			<h1>Kontak Kami</h1>
-		</div>
-		<div class="container" style="margin-top: 40px;">
+		</div> -->
+		<div class="container" >
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 body-form">
+				<h2>Kontak Kami</h2>
+				<hr style="border: 3px dashed #444 !important">
+				<br/>
 					<div class="col-sm-4">
 						<h3 class="raleway" style="color:#aaa;">Kantor Kami</h3>
 						<br>
@@ -198,7 +201,7 @@
 						<br>
 					</div>
 					<div class="col-sm-12" id="maps">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3521.6798686387046!2d110.36543761817883!3d-7.794918770321125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5827e5598843%3A0xbea6b80ab5f1ce5e!2sBadan+Perencanaan+Pembangunan+Daerah+Pemerintah+Provinsi+DI+Yogyakarta!5e0!3m2!1sen!2sus!4v1458194647784" width="1150" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3521.6798686387046!2d110.36543761817883!3d-7.794918770321125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5827e5598843%3A0xbea6b80ab5f1ce5e!2sBadan+Perencanaan+Pembangunan+Daerah+Pemerintah+Provinsi+DI+Yogyakarta!5e0!3m2!1sen!2sus!4v1458194647784&zoom=27" width="1150" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 					</div>
 					<div class="clearfix"></div>
 				</div>

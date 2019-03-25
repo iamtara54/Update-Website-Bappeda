@@ -14,8 +14,15 @@
 
 	<!-- Bootstrap -->
 	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
+	
+	<!-- Select2 -->
+	<link rel="stylesheet" type="text/css" href="plugin/select2/src/assets/css/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="plugin/select2/src/assets/css/select2-addl.min.css">
+	<link rel="stylesheet" type="text/css" href="plugin/select2/src/assets/css/select2-krajee.min.css">
 
+	<!-- File Input -->
 	<!-- <link rel="stylesheet" type="text/css" href="plugin/fileinput/css/fileinput.min.css"> -->
+
 	<!-- Slick Slider -->
 	<link rel="stylesheet" type="text/css" href="plugin/slick/slick.css">
 	<link rel="stylesheet" type="text/css" href="plugin/slick/slick-theme.css">
@@ -136,7 +143,7 @@
 		</nav>
 		<!-- /Nav -->
 
-		<hr>
+		<!-- <hr> -->
 
 	<!-- </header> -->
 	<!-- /Header -->
@@ -161,7 +168,7 @@
 
 				<!-- contact -->
 				<div class="col-sm-6" id="maps">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3521.6798686387046!2d110.36543761817883!3d-7.794918770321125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5827e5598843%3A0xbea6b80ab5f1ce5e!2sBadan+Perencanaan+Pembangunan+Daerah+Pemerintah+Provinsi+DI+Yogyakarta!5e0!3m2!1sen!2sus!4v1458194647784" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d988.2362984028001!2d110.36537374001969!3d-7.795627759917586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd0111d680b9bb72c!2sBAPPEDA+DIY!5e0!3m2!1sid!2sus!4v1553329598730" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 				</div>
 				<!-- /contact -->
 
@@ -315,6 +322,8 @@
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="plugin/select2/src/assets/js/select2.full.min.js"></script>
+	<script type="text/javascript" src="plugin/select2/src/assets/js/select2-krajee.min.js"></script>
 	<!-- <script type="text/javascript" src="plugin/fileinput/js/fileinput.min.js"></script> -->
 	<script type="text/javascript" src="js/slick.min.js"></script>
 	<script type="text/javascript" src="js/owl.carousel.min.js"></script>

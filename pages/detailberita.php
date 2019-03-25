@@ -3,7 +3,7 @@
 
 	<!-- Container -->
 	<div class="container">
-
+		<h2 class="title-blog">Berita</h2><br/>
 		<!-- Row -->
 		<div class="row">
 
