@@ -1,0 +1,1 @@
+<? include 'pages/detaillitbang/ditya.php';?>

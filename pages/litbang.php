@@ -36,7 +36,7 @@
                               </div>
                               <div class="media-body">
                                 <div class="nama">
-                                  <a href="/karya_perencanaan/8-antarikso-bawono-st-mt"><strong>DITYA NANARYO AJI S.H., M.Ec.Dev.</strong></a>
+                                  <a href="?page=directlitbang"><strong>DITYA NANARYO AJI S.H., M.Ec.Dev.</strong></a>
                                 </div>
                                 <br>
                                 <div class="jabatan">Jabatan. Kepala BPPSD DIY</div>
@@ -53,7 +53,7 @@
                               </div>
                               <div class="media-body">
                                 <div class="nama">
-                                  <a href="/karya_perencanaan/9-imam-budidharma-st-m-dev"><strong>DANANG ARYO PRAKOSO S.T.P.</strong></a>
+                                  <a href="?page=directlitbang"><strong>DANANG ARYO PRAKOSO S.T.P.</strong></a>
                                 </div>
                                 <br>
                                 <div class="jabatan">Jabatan. Peneliti Pertama</div>
@@ -70,7 +70,7 @@
                               </div>
                               <div class="media-body">
                                 <div class="nama">
-                                  <a href="/karya_perencanaan/10-rufariza-st"><strong>SITI ASIYAH S.S.</strong></a>
+                                  <a href="?page=directlitbang"><strong>SITI ASIYAH S.S.</strong></a>
                                 </div>
                                 <br>
                                 <div class="jabatan">Jabatan. Peneliti Pertama&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -87,7 +87,7 @@
                               </div>
                               <div class="media-body">
                                 <div class="nama">
-                                  <a href="/karya_perencanaan/11-pangky-arbindarta-kusuma-se"><strong>DWI ENDAH CAHYANI S.T.</strong></a>
+                                  <a href="?page=directlitbang"><strong>DWI ENDAH CAHYANI S.T.</strong></a>
                                 </div>
                                 <br>
                                 <div class="jabatan">Jabatan. Peneliti Pertama</div>
@@ -104,7 +104,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/12-ari-siswo-putro-s-sos"><strong>MARIA ISABELLA CHRISSANTI S.Si., M.Pd.</strong></a>
+                                    <a href="?page=directlitbang"><strong>MARIA ISABELLA CHRISSANTI S.Si., M.Pd.</strong></a>
                                   </div>
                                   <br>
                                 <div class="jabatan">Jabatan. Peneliti Pertama</div>
@@ -121,7 +121,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/13-aris-widiyanto-s-sos"><strong>Dra RAHAYU ENDANG PUJIATI</strong></a>
+                                    <a href="?page=directlitbang"><strong>Dra RAHAYU ENDANG PUJIATI</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Peneliti Madya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -138,7 +138,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/15-sugiyarta-s-h-m-m"><strong>WIJI LESTARI S.I.P.M.Eng</strong></a>
+                                    <a href="?page=directlitbang"><strong>WIJI LESTARI S.I.P.M.Eng</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Kepala Subbagian Tata Usaha</div>
@@ -155,7 +155,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>RINA DWIASTUTI</strong></a>
+                                    <a href="?page=directlitbang"><strong>RINA DWIASTUTI</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Pengadministrasi Keuangan</div>
@@ -172,7 +172,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/17-dionysius-desembriarto-s-e-m-si"><strong>SUNARTIYEM</strong></a>
+                                    <a href="?page=directlitbang"><strong>SUNARTIYEM</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Pengadministrasi Persuratan</div>
@@ -189,7 +189,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>SUHARTI SRI MULYANI</strong></a>
+                                    <a href="?page=directlitbang"><strong>SUHARTI SRI MULYANI</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Pengadministrasi Kepegawaian</div>
@@ -206,7 +206,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>IWAN SUTARDI BUDI SANTOSO S.T., M.Eng.</strong></a>
+                                    <a href="?page=directlitbang"><strong>IWAN SUTARDI BUDI SANTOSO S.T., M.Eng.</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Kepala Seksi Penelitian dan Pengembangan</div>
@@ -223,7 +223,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>MUNIR RUDI INDRATNO S.IP.</strong></a>
+                                    <a href="?page=directlitbang"><strong>MUNIR RUDI INDRATNO S.IP.</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Penyusun Bahan Penyelenggaraan Litbang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -240,7 +240,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>GUTIK LESTARNA S.P.T.</strong></a>
+                                    <a href="?page=directlitbang"><strong>GUTIK LESTARNA S.P.T.</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Penyusun Bahan Penyelenggaraan Litbang</div>
@@ -257,7 +257,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>ARITTANI SWASTININGSIH</strong></a>
+                                    <a href="?page=directlitbang"><strong>ARITTANI SWASTININGSIH</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Penyusun Bahan Penyelenggaraan Litbang</div>
@@ -274,7 +274,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>RIRIN HERINI EVILISTYANI S.IP., M.M.</strong></a>
+                                    <a href="?page=directlitbang"><strong>RIRIN HERINI EVILISTYANI S.IP., M.M.</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Kepala Seksi Data dan Statistik</div>
@@ -291,7 +291,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>MOHAMAD RIDWAN SANTOSO S.Si., M.Eng.</strong></a>
+                                    <a href="?page=directlitbang"><strong>MOHAMAD RIDWAN SANTOSO S.Si., M.Eng.</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Analis Statistik</div>
@@ -308,7 +308,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>ANNAS MAKRUF HAIFANI JUMHAN S.P.,M.M., MPA</strong></a>
+                                    <a href="?page=directlitbang"><strong>ANNAS MAKRUF HAIFANI JUMHAN S.P.,M.M., MPA</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Analis Statistik</div>

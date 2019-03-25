@@ -53,7 +53,7 @@
                               </div>
                               <div class="media-body">
                                 <div class="nama">
-                                  <a href="/karya_perencanaan/9-imam-budidharma-st-m-dev"><strong>Imam Budidharma, ST, M.Dev</strong></a>
+                                  <a href="?page=directjfp"><strong>Imam Budidharma, ST, M.Dev</strong></a>
                                 </div>
                                 <br>
                                 <div class="jabatan">Jabatan. Perencana Pertama</div>
@@ -70,7 +70,7 @@
                               </div>
                               <div class="media-body">
                                 <div class="nama">
-                                  <a href="/karya_perencanaan/10-rufariza-st"><strong>Rufariza, ST</strong></a>
+                                  <a href="?page=directjfp"><strong>Rufariza, ST</strong></a>
                                 </div>
                                 <br>
                                 <div class="jabatan">Jabatan. Perencana Pertama</div>
@@ -87,7 +87,7 @@
                               </div>
                               <div class="media-body">
                                 <div class="nama">
-                                  <a href="/karya_perencanaan/11-pangky-arbindarta-kusuma-se"><strong>Pangky Arbindarta Kusuma, SE</strong></a>
+                                  <a href="?page=directjfp"><strong>Pangky Arbindarta Kusuma, SE</strong></a>
                                 </div>
                                 <br>
                                 <div class="jabatan">Jabatan. Perencana Muda</div>
@@ -104,7 +104,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/12-ari-siswo-putro-s-sos"><strong>Ari Siswo Putro, S.Sos</strong></a>
+                                    <a href="?page=directjfp"><strong>Ari Siswo Putro, S.Sos</strong></a>
                                   </div>
                                   <br>
                                 <div class="jabatan">Jabatan. Perencana Pertama</div>
@@ -121,7 +121,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/13-aris-widiyanto-s-sos"><strong>Aris Widiyanto, S.Sos</strong></a>
+                                    <a href="?page=directjfp"><strong>Aris Widiyanto, S.Sos</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Perencana Pertama</div>
@@ -138,7 +138,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/15-sugiyarta-s-h-m-m"><strong>Sugiyarta, S.H, M.M</strong></a>
+                                    <a href="?page=directjfp"><strong>Sugiyarta, S.H, M.M</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Perencana Madya</div>
@@ -155,7 +155,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/16-fahmi-ali-s-h"><strong>Fahmi Ali, S.H</strong></a>
+                                    <a href="?page=directjfp"><strong>Fahmi Ali, S.H</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Calon Perencana Pertama</div>
@@ -172,7 +172,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/17-dionysius-desembriarto-s-e-m-si"><strong>Dionysius Desembriarto, S.E, M.Si</strong></a>
+                                    <a href="?page=directjfp"><strong>Dionysius Desembriarto, S.E, M.Si</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Calon Perencana Muda</div>
@@ -189,7 +189,7 @@
                                 </div>
                                 <div class="media-body">
                                   <div class="nama">
-                                    <a href="/karya_perencanaan/18-sri-giyanti-s-e-m-t"><strong>Sri Giyanti, S.E, M.T</strong></a>
+                                    <a href="?page=directjfp"><strong>Sri Giyanti, S.E, M.T</strong></a>
                                   </div>
                                   <br>
                                   <div class="jabatan">Jabatan. Perencana Muda</div>
@@ -208,7 +208,7 @@
                     </div>
                     <div class="media-body">
                       <div class="nama">
-                        <a href="/karya_perencanaan/19-fitri-janah-s-p"><strong>Fitri Janah, S.P</strong></a>
+                        <a href="?page=directjfp"><strong>Fitri Janah, S.P</strong></a>
                       </div>
                       <br>
                                             <div class="jabatan">Jabatan. Perencana Pertama</div>
@@ -228,7 +228,7 @@
                     </div>
                     <div class="media-body">
                       <div class="nama">
-                        <a href="/karya_perencanaan/20-prabawa-harya-pramudhita-s-t"><strong>Prabawa Harya Pramudhita, S.T</strong></a>
+                        <a href="?page=directjfp"><strong>Prabawa Harya Pramudhita, S.T</strong></a>
                       </div>
                       <br>
                                             <div class="jabatan">Jabatan. Perencana Pertama</div>
@@ -248,7 +248,7 @@
                     </div>
                     <div class="media-body">
                       <div class="nama">
-                        <a href="/karya_perencanaan/21-siti-asiyah-s-s"><strong>Siti Asiyah, S.S</strong></a>
+                        <a href="?page=directjfp"><strong>Siti Asiyah, S.S</strong></a>
                       </div>
                       <br>
                                             <div class="jabatan">Jabatan. Calon Peneliti Pertama</div>
